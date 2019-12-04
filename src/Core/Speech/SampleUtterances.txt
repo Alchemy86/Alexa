@@ -1,0 +1,16 @@
+PaydayIntent if im paid {date}
+PaydayIntent about pay day
+PaydayIntent when pay day is
+PaydayIntent how long till pay day
+PaydayIntent whens pay day
+PaydayIntent when i get paid
+
+AMAZON.CancelIntent end self service
+AMAZON.CancelIntent stop self service
+
+AMAZON.HelpIntent for help
+AMAZON.HelpIntent what I can say
+AMAZON.HelpIntent what can I do
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent end
